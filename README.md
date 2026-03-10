@@ -96,12 +96,15 @@ pip install -r requirements.txt
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas!
+
 Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
 
 ## 📄 Licença
 Este projeto está sob a licença MIT.
+
 Sinta-se livre para utilizá-lo para fins educacionais.
 
 ## ⭐ Autor
 Desenvolvido por Ingrid Xisto
+
 Se gostou do projeto, deixe uma ⭐ no repositório!
